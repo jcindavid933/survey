@@ -1,0 +1,40 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.container{
+  width: 500px;
+  height: 500px;
+  /* background-color: green; */
+  padding: 40px;
+  border: 2px solid black;
+}
+h4{
+  display: inline-block;
+}
+form{
+  display: inline-block;
+}
+form input{
+  width: 200px;
+  height: 30px;
+  margin-left: 100px;
+}
+form .select1{
+  width: 200px;
+  height: 30px;
+  margin-left: 80px;
+}
+form .select2{
+  width: 200px;
+  height: 30px;
+  margin-left: 47px;
+}
+.textarea{
+  border: 2px solid black;
+}
+.submit{
+  box-shadow: 2px 4px black;
+  margin-left: 182px;
+  margin-top: 5px;
+}
